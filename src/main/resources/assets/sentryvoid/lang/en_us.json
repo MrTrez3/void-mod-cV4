@@ -1,0 +1,15 @@
+{
+  "entity.sentryvoid.shadow": "Shadow",
+  "key.categories.sentryvoid": "Sentry: Void",
+  "key.sentryvoid.form": "Void Form (black skin + flight)",
+  "key.sentryvoid.blast": "Void Blast",
+  "key.sentryvoid.grasp": "Shadow Grasp",
+  "key.sentryvoid.dash": "Void Dash",
+  "key.sentryvoid.singularity": "Singularity",
+  "key.sentryvoid.engulf": "Engulf",
+  "key.sentryvoid.erase": "Erase (turn into shadow)",
+  "message.sentryvoid.form_on": "The Void consumes you...",
+  "message.sentryvoid.form_off": "The Void recedes.",
+  "message.sentryvoid.no_target": "No target in sight.",
+  "message.sentryvoid.immune": "The Void cannot touch this target."
+}

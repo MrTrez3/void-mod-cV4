@@ -1,0 +1,15 @@
+{
+  "entity.sentryvoid.shadow": "Sombra",
+  "key.categories.sentryvoid": "Sentry: Void",
+  "key.sentryvoid.form": "Forma do Void (skin preta + voo)",
+  "key.sentryvoid.blast": "Rajada do Void",
+  "key.sentryvoid.grasp": "Garra de Sombra",
+  "key.sentryvoid.dash": "Impulso do Void",
+  "key.sentryvoid.singularity": "Singularidade",
+  "key.sentryvoid.engulf": "Engolir",
+  "key.sentryvoid.erase": "Apagar (vira sombra)",
+  "message.sentryvoid.form_on": "O Void toma conta de você...",
+  "message.sentryvoid.form_off": "O Void recua.",
+  "message.sentryvoid.no_target": "Nenhum alvo à vista.",
+  "message.sentryvoid.immune": "O Void não consegue tocar este alvo."
+}
